@@ -1,0 +1,11 @@
+{
+  "name": "hlyTypeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hehly/hlyTypeScript.git",
+  "author": "Hehly <1830904228@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
